@@ -1,0 +1,22 @@
+.app {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* Align to the right side */
+    justify-content: center;
+    height: 100vh;
+    padding-right: 20px;
+    /* Add padding to the right */
+}
+
+.right-panel {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.board {
+    margin-right: 20px;
+}

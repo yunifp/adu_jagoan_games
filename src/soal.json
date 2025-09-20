@@ -1,0 +1,2525 @@
+{
+    "categories": {
+        "animals": [
+            {
+                "word": "kucing",
+                "meaning": "cat",
+                "clues": [
+                    "It has sharp claws and soft fur.",
+                    "It has a keen sense of smell.",
+                    "It chases mice.",
+                    "It often says 'meow'.",
+                    "It has whiskers."
+                ]
+            },
+            {
+                "word": "Anjing",
+                "meaning": "Dog",
+                "clues": [
+                    "It barks loudly",
+                    "It loves to wag its tail when happy.",
+                    "It often guards the house.",
+                    "It can learn tricks, like \"sit\" and \"stay.\""
+                ]
+            },
+            {
+                "word": "Gajah",
+                "meaning": "Elephant",
+                "clues": [
+                    "It has a long trunk.",
+                    "It is the biggest land animal.",
+                    "It has large ears",
+                    "It loves to eat grass and leaves.",
+                    "It can spray water with its trunk."
+                ]
+            },
+            {
+                "word": "Harimau",
+                "meaning": "Tiger",
+                "clues": [
+                    "It has orange fur with black stripes.",
+                    "It is a strong hunter.",
+                    "It lives in forests and jungles."
+                ]
+            },
+            {
+                "word": "Monyet",
+                "meaning": "Monkey",
+                "clues": [
+                    "It loves to climb trees.",
+                    "It often eats bananas.",
+                    "It is very playful and curious."
+                ]
+            },
+            {
+                "word": "Kuda",
+                "meaning": "Horse",
+                "clues": [
+                    "It runs fast.",
+                    "It is often ridden by people.",
+                    "It has strong legs."
+                ]
+            },
+            {
+                "word": "Sapi",
+                "meaning": "Cow",
+                "clues": [
+                    "It gives us milk.",
+                    "It is usually found on farms.",
+                    "It eats grass all day.",
+                    "It says \"moo.\""
+                ]
+            },
+            {
+                "word": "Domba",
+                "meaning": "Sheep",
+                "clues": [
+                    "It has woolly fur.",
+                    "It gives wool for making clothes.",
+                    "It stays in groups called flocks.",
+                    "It loves to graze on grass."
+                ]
+            },
+            {
+                "word": "Kambing",
+                "meaning": "Goat",
+                "clues": [
+                    "It often eats grass and leaves.",
+                    "It gives milk like cows."
+                ]
+            },
+            {
+                "word": "Singa",
+                "meaning": "Lion",
+                "clues": [
+                    "It is called the king of the jungle",
+                    "It has a big mane around its face.",
+                    "It is a powerful hunter."
+                ]
+            },
+            {
+                "word": "Kelinci",
+                "meaning": "Rabbit",
+                "clues": [
+                    "It has long ears",
+                    "It hops and jumps fast.",
+                    "It loves to eat carrots and vegetables.",
+                    "It has a fluffy tail."
+                ]
+            },
+            {
+                "word": "Rusa",
+                "meaning": "Deer",
+                "clues": [
+                    "It has antlers on its head.",
+                    "It lives in forests and grasslands.",
+                    "It runs quickly to escape danger.",
+                    "It loves to eat plants and leaves."
+                ]
+            },
+            {
+                "word": "Zebra",
+                "meaning": "Zebra",
+                "clues": [
+                    "It has black and white stripes.",
+                    "It looks like a horse.",
+                    "It lives in African grasslands."
+                ]
+            },
+            {
+                "word": "Jerapah",
+                "meaning": "Giraffe",
+                "clues": [
+                    "It has a very long neck.",
+                    "It eats leaves from tall trees.",
+                    "It is the tallest animal on land."
+                ]
+            },
+            {
+                "word": "Kanguru",
+                "meaning": "Kangaroo",
+                "clues": [
+                    "It carries its baby in a pouch.",
+                    "It jumps on its strong back legs.",
+                    "It lives in Australia.",
+                    "It has a long tail for balance."
+                ]
+            },
+            {
+                "word": "Beruang",
+                "meaning": "Bear",
+                "clues": [
+                    "It hibernates during the winter.",
+                    "It has thick fur to keep warm.",
+                    "It loves honey.",
+                    "It can stand on two legs."
+                ]
+            },
+            {
+                "word": "Buaya",
+                "meaning": "Crocodile",
+                "clues": [
+                    "It has sharp teeth.",
+                    "It lives in rivers and swamps.",
+                    "It is a strong swimmer.",
+                    "It can stay underwater for a long time."
+                ]
+            },
+            {
+                "word": "Katak",
+                "meaning": "Frog",
+                "clues": [
+                    "It can jump high and far.",
+                    "It can live in water and on land.",
+                    "It lays eggs in water.",
+                    "It catches insects with its sticky tongue."
+                ]
+            },
+            {
+                "word": "Bebek",
+                "meaning": "Duck",
+                "clues": [
+                    "It says \"quack.\"",
+                    "It has feathers that keep it dry.",
+                    "It lays eggs."
+                ]
+            },
+            {
+                "word": "Elang",
+                "meaning": "Eagle",
+                "clues": [
+                    "It is a strong bird with sharp eyesight.",
+                    "It flies high in the sky.",
+                    "It has large wings."
+                ]
+            },
+            {
+                "word": "Burung Hantu",
+                "meaning": "Owl",
+                "clues": [
+                    "It is active at night.",
+                    "It has big, round eyes.",
+                    "It can turn its head all the way around."
+                ]
+            },
+            {
+                "word": "Merak",
+                "meaning": "Peacock",
+                "clues": [
+                    "It has a beautiful, colorful tail.",
+                    "It spreads its feathers to attract mates.",
+                    "It eats seeds, insects, and plants."
+                ]
+            },
+            {
+                "word": "Ikan",
+                "meaning": "Fish",
+                "clues": [
+                    "It swims in water.",
+                    "It has fins and scales.",
+                    "It lives in oceans, rivers, and lakes."
+                ]
+            },
+            {
+                "word": "Hiu",
+                "meaning": "Shark",
+                "clues": [
+                    "It has many sharp teeth.",
+                    "It is a predator in the ocean.",
+                    "It swims fast.",
+                    "It has fins and a large tail."
+                ]
+            },
+            {
+                "word": "Paus",
+                "meaning": "Whale",
+                "clues": [
+                    "It is the largest animal in the ocean.",
+                    "It breathes air through a blowhole.",
+                    "It swims by moving its tail up and down."
+                ]
+            },
+            {
+                "word": "Lumba lumba",
+                "meaning": "Dolphin",
+                "clues": [
+                    "It is very intelligent.",
+                    "It loves to jump and play in the water.",
+                    "It communicates using clicks and whistles."
+                ]
+            },
+            {
+                "word": "Kura-kura",
+                "meaning": "Turtle",
+                "clues": [
+                    "It has a hard shell.",
+                    "It moves slowly on land.",
+                    "It can live on land and in water.",
+                    "It can pull its head into its shell."
+                ]
+            },
+            {
+                "word": "Gurita",
+                "meaning": "Octopus",
+                "clues": [
+                    "It has eight arms.",
+                    "It has a soft body and no bones.",
+                    "It squirts ink to escape predators."
+                ]
+            },
+            {
+                "word": "Ular",
+                "meaning": "Snake",
+                "clues": [
+                    "It has no legs.",
+                    "It can be venomous.",
+                    "It eats small animals like mice."
+                ]
+            },
+            {
+                "word": "Kelelawar",
+                "meaning": "Bat",
+                "clues": [
+                    "It flies at night.",
+                    "It hangs upside down to sleep.",
+                    "It eats insects or fruits."
+                ]
+            },
+            {
+                "word": "Lebah",
+                "meaning": "Bee",
+                "clues": [
+                    "It makes honey.",
+                    "It can sting you.",
+                    "It collects pollen from flowers."
+                ]
+            },
+            {
+                "word": "Kupu-kupu",
+                "meaning": "Butterfly",
+                "clues": [
+                    "It has beautiful wings.",
+                    "It starts life as a caterpillar.",
+                    "It can fly from flower to flower."
+                ]
+            },
+            {
+                "word": "Semut",
+                "meaning": "Ant",
+                "clues": [
+                    "It is very small.",
+                    "It loves to carry food to its nest.",
+                    "It can lift objects much heavier than its body."
+                ]
+            },
+            {
+                "word": "Laba-laba",
+                "meaning": "Spider",
+                "clues": [
+                    "It spins webs to catch insects.",
+                    "It has eight legs.",
+                    "It can crawl on walls."
+                ]
+            },
+            {
+                "word": "Kepik",
+                "meaning": "Ladybug",
+                "clues": [
+                    "It is small and red with black spots.",
+                    "It can fly.",
+                    "It eats tiny insects"
+                ]
+            },
+            {
+                "word": "Kepiting",
+                "meaning": "Crab",
+                "clues": [
+                    "It has claws to catch food.",
+                    "It walks sideways.",
+                    "It has a hard shell."
+                ]
+            },
+            {
+                "word": "Ubur-ubur",
+                "meaning": "Jellyfish",
+                "clues": [
+                    "It has a soft, transparent body.",
+                    "It can sting you with its tentacles.",
+                    "It floats in the ocean."
+                ]
+            },
+            {
+                "word": "Siput",
+                "meaning": "Snail",
+                "clues": [
+                    "It moves very slowly.",
+                    "It carries its shell on its back.",
+                    "It eats plants and vegetables."
+                ]
+            },
+            {
+                "word": "Capung",
+                "meaning": "Dragonfly",
+                "clues": [
+                    "It catches small insects to eat.",
+                    "It has transparent wings.",
+                    "It has big eyes that can see in many directions."
+                ]
+            },
+            {
+                "word": "Nyamuk",
+                "meaning": "Mosquito",
+                "clues": [
+                    "It makes an annoying buzzing sound.",
+                    "It can spread diseases.",
+                    "It is very small and flies quickly."
+                ]
+            },
+            {
+                "word": "Belalang",
+                "meaning": "Grasshopper",
+                "clues": [
+                    "The color is green or brown",
+                    "It can jump high.",
+                    "It has long back legs for jumping."
+                ]
+            },
+            {
+                "word": "Ulat",
+                "meaning": "Caterpillar",
+                "clues": [
+                    "It crawls on leaves.",
+                    "It eats plants and grows quickly.",
+                    "It turns into a butterfly "
+                ]
+            },
+            {
+                "word": "Macan tutul",
+                "meaning": "Leopard",
+                "clues": [
+                    "It has spots on its body.",
+                    "It is a fast and strong predator.",
+                    "It can climb trees easily."
+                ]
+            },
+            {
+                "word": "Bunglon",
+                "meaning": "Chameleon",
+                "clues": [
+                    "It can change its color to blend in.",
+                    "It has a long tongue to catch insects.",
+                    "It is a type of lizard."
+                ]
+            },
+            {
+                "word": "Kuda Nil",
+                "meaning": "Hippopotamus",
+                "clues": [
+                    "It is very large and heavy.",
+                    "It lives in rivers and lakes.",
+                    "It has a big mouth and strong jaws."
+                ]
+            },
+            {
+                "word": "Badak",
+                "meaning": "Rhinoceros",
+                "clues": [
+                    "It has thick skin and one or two horns on its nose.",
+                    "It is very heavy and powerful.",
+                    "It has poor eyesight but good hearing."
+                ]
+            },
+            {
+                "word": "Burung Unta",
+                "meaning": "Ostrich",
+                "clues": [
+                    "It is the largest bird in the world.",
+                    "It has long legs and a long neck.",
+                    "It lives in African savannas and deserts."
+                ]
+            },
+            {
+                "word": "Unta",
+                "meaning": "Camel",
+                "clues": [
+                    "It has a hump on its back.",
+                    "It lives in deserts.",
+                    "It can survive long periods without water."
+                ]
+            },
+            {
+                "word": "Tupai",
+                "meaning": "Squirrel",
+                "clues": [
+                    "It loves to eat nuts and seeds.",
+                    "It climbs trees quickly.",
+                    "It stores food for the winter."
+                ]
+            },
+            {
+                "word": "Beruang Kutub",
+                "meaning": "Polar Bear",
+                "clues": [
+                    "It has thick white fur to keep warm.",
+                    "It lives in the Arctic.",
+                    "It is the largest land carnivore."
+                ]
+            }
+        ],
+        "bedroom": [
+            {
+                "word": "Tempat tidur",
+                "meaning": "Bed",
+                "clues": [
+                    "You sleep on this.",
+                    "It usually has a mattress and pillows.",
+                    "You lie on this to rest at night."
+                ]
+            },
+            {
+                "word": "Bantal",
+                "meaning": "Pillow",
+                "clues": [
+                    "You rest your head on this when you sleep.",
+                    "It is usually soft and covered with a pillowcase.",
+                    "You put your head on it when you sleep."
+                ]
+            },
+            {
+                "word": "Selimut",
+                "meaning": "Blanket",
+                "clues": [
+                    "You use this to keep warm while sleeping.",
+                    "It covers you while you’re in bed.",
+                    "It can be made of wool or cotton to cover you while sleeping"
+                ]
+            },
+            {
+                "word": "Kasur",
+                "meaning": "Mattress",
+                "clues": [
+                    "It is covered with a bed sheet.",
+                    "It stays on top of the bed frame.",
+                    "It is bigger than a pillow."
+                ]
+            },
+            {
+                "word": "Sprei",
+                "meaning": "Sheet",
+                "clues": [
+                    "It covers the mattress.",
+                    "You need to change it regularly.",
+                    "It is usually made of cotton or linen to cover the mattress"
+                ]
+            },
+            {
+                "word": "Lemari pakaian",
+                "meaning": "Wardrobe",
+                "clues": [
+                    "You store your clothes inside it.",
+                    "You hang shirts and dresses in it.",
+                    "It has doors you can open and close to store your clothes"
+                ]
+            },
+            {
+                "word": "Lampu",
+                "meaning": "Lamp",
+                "clues": [
+                    "It provides light in the bedroom.",
+                    "It can be placed on a nightstand or desk.",
+                    "It is used for reading or seeing in the dark in your bedroom"
+                ]
+            },
+            {
+                "word": "Jam weker",
+                "meaning": "Alarm Clock",
+                "clues": [
+                    "It wakes you up in the morning.",
+                    "It makes noise at a set time.",
+                    "It makes a loud sound to wake you up."
+                ]
+            },
+            {
+                "word": "Tirai",
+                "meaning": "Curtains",
+                "clues": [
+                    "They cover windows.",
+                    "They can be opened or closed.",
+                    "They help block out light or add privacy."
+                ]
+            },
+            {
+                "word": "Karpet",
+                "meaning": "Rug",
+                "clues": [
+                    "It is placed on the floor.",
+                    "You step on it with your feet.",
+                    "It’s soft and usually on the floor."
+                ]
+            },
+            {
+                "word": "Rak buku",
+                "meaning": "Bookshelf",
+                "clues": [
+                    "You put your favorite stories and schoolbooks on it.",
+                    "It holds your books and helps keep them organized.",
+                    "You use it to keep your books in one place so you can find them easily later."
+                ]
+            },
+            {
+                "word": "Cermin",
+                "meaning": "Mirror",
+                "clues": [
+                    "It shows your reflection when you look at it.",
+                    "You use it to check your appearance.",
+                    "It’s usually made of glass and has a frame around it."
+                ]
+            },
+            {
+                "word": "Kursi",
+                "meaning": "Chair",
+                "clues": [
+                    "You sit on it to rest or do your homework.",
+                    "It has four legs and a backrest.",
+                    "You can find it at a desk, table, or near your bed."
+                ]
+            },
+            {
+                "word": "Laci",
+                "meaning": "Drawer",
+                "clues": [
+                    "It’s a part of a dresser or desk where you can keep your clothes or toys.",
+                    "You open it by pulling on a handle or knob.",
+                    "It slides in and out to store things inside."
+                ]
+            },
+            {
+                "word": "Kipas angin",
+                "meaning": "Fan",
+                "clues": [
+                    "It helps keep the room cool by blowing air.",
+                    "It has blades that spin around",
+                    "You can find it on the ceiling or on a stand."
+                ]
+            },
+            {
+                "word": "Rak dinding",
+                "meaning": "Wall Shelf",
+                "clues": [
+                    "It’s a flat piece that you attach to the wall.",
+                    "You can put books, toys, or decorations on it.",
+                    "It doesn’t have legs; it’s fixed to the wall."
+                ]
+            },
+            {
+                "word": "Lampu meja",
+                "meaning": "Desk Lamp",
+                "clues": [
+                    "It provides light for reading or doing homework.",
+                    "It usually sits on your desk or bedside table.",
+                    "It has a switch to turn it on or off."
+                ]
+            },
+            {
+                "word": "Gantungan baju",
+                "meaning": "Clothes hanger",
+                "clues": [
+                    "It’s used to hang shirts, jackets, and pants so they stay organized.",
+                    "You hang it in your wardrobe.",
+                    "It can be made of plastic, metal, or wood to hang your clothes. "
+                ]
+            },
+            {
+                "word": "Sandal kamar",
+                "meaning": "Slippers",
+                "clues": [
+                    "You wear them on your feet inside your bedroom.",
+                    "They are usually worn when you’re relaxing at your bedroom",
+                    "They are different from outdoor shoes because they are only for indoor use."
+                ]
+            },
+            {
+                "word": "Keranjang pakaian kotor",
+                "meaning": "Laundry basket",
+                "clues": [
+                    "It’s used to collect dirty clothes.",
+                    "You put your clothes in it before washing them.",
+                    "It helps keep your room tidy by storing clothes until they are washed."
+                ]
+            },
+            {
+                "word": "Meja samping tempat tidur",
+                "meaning": "Nightstand",
+                "clues": [
+                    "It sits next to your bed.",
+                    "You use it to keep things you need close to you while you sleep.",
+                    "It’s sometimes called a bedside table."
+                ]
+            },
+            {
+                "word": "AC / Pendingin udara",
+                "meaning": "Air conditioner",
+                "clues": [
+                    "It cools down the air in a room when it's too hot.",
+                    "You control it with a remote or a panel on the machine.",
+                    "It helps keep you comfortable during hot weather."
+                ]
+            },
+            {
+                "word": "Rak sepatu",
+                "meaning": "Shoe Rack",
+                "clues": [
+                    "You put your shoes on it when you come inside to keep them tidy.",
+                    "It’s used to keep your shoes organized",
+                    "It can be made of wood, metal, or plastic to keep your shoes organized"
+                ]
+            },
+            {
+                "word": "Meja rias",
+                "meaning": "Vanity",
+                "clues": [
+                    "It’s a piece of furniture where you can do your hair and makeup.",
+                    "It often has drawers or shelves to store beauty products and accessories.",
+                    "You sit in front of it to get ready for the day."
+                ]
+            },
+            {
+                "word": "Bingkai foto",
+                "meaning": "Picture Frame",
+                "clues": [
+                    "It holds and displays your favorite photos",
+                    "You can hang it on the wall or place it on a shelf.",
+                    "It often has a glass cover to protect the picture inside."
+                ]
+            },
+            {
+                "word": "Penyaring udara",
+                "meaning": "Air Purifier",
+                "clues": [
+                    "It helps make the air in your room cleaner to breathe.",
+                    "It removes dust, smoke, and other particles from the air.",
+                    "It usually makes a soft humming sound while it’s working."
+                ]
+            },
+            {
+                "word": "Bantal guling",
+                "meaning": "Bolster",
+                "clues": [
+                    "It’s a long, round pillow.",
+                    "It’s often placed in the middle of your bed",
+                    "It’s usually thicker and longer than regular pillows."
+                ]
+            }
+        ],
+        "classroom": [
+            {
+                "word": "Meja",
+                "meaning": "Table",
+                "clues": [
+                    "A flat surface where you write and work.",
+                    "It usually has drawers or compartments for storage.",
+                    "It often has space underneath for your legs and sometimes includes shelves or compartments for storing books or supplies."
+                ]
+            },
+            {
+                "word": "Kursi",
+                "meaning": "Chair",
+                "clues": [
+                    "You sit on this in the classroom",
+                    "It often has four legs and a backrest.",
+                    "In the classroom, it is often placed behind a desk and may be part of a set with a desk for each student."
+                ]
+            },
+            {
+                "word": "Papan tulis (putih)",
+                "meaning": "Whiteboard",
+                "clues": [
+                    "It is a surface for writing with markers.",
+                    "It is typically white and smooth.",
+                    "You erase writing on it with a special eraser."
+                ]
+            },
+            {
+                "word": "Papan tulis (hitam)",
+                "meaning": "Blackboard",
+                "clues": [
+                    "Teachers write on this surface.",
+                    "The color is usually black.",
+                    "You use chalk to write on it."
+                ]
+            },
+            {
+                "word": "Penghapus",
+                "meaning": "Eraser",
+                "clues": [
+                    "You use this to remove pencil marks.",
+                    "It is usually made of rubber.",
+                    "It can be found on the end of a pencil or as a separate tool."
+                ]
+            },
+            {
+                "word": "Pensil",
+                "meaning": "Pencil",
+                "clues": [
+                    "You use this to write or draw.",
+                    "It has a wooden or plastic body and a lead core.",
+                    "It can be sharpened with a sharpener."
+                ]
+            },
+            {
+                "word": "Pulpen",
+                "meaning": "Pen",
+                "clues": [
+                    "This writing instrument uses ink.",
+                    "It is often used for writing notes or assignments.",
+                    "It often comes in different colors like blue, black, and red, commonly used for writing, marking, or grading."
+                ]
+            },
+            {
+                "word": "Buku catatan",
+                "meaning": "Notebook",
+                "clues": [
+                    "You use this to write or take notes.",
+                    "It has lined or blank pages.",
+                    "It is often used by students to jot down important notes during class or to complete homework assignments."
+                ]
+            },
+            {
+                "word": "Penggaris",
+                "meaning": "Ruler",
+                "clues": [
+                    "This tool is used for measuring length.",
+                    "It is often made of wood, plastic, or metal to measure length",
+                    "It usually has marks in centimeters or inches."
+                ]
+            },
+            {
+                "word": "Peta",
+                "meaning": "Map",
+                "clues": [
+                    "This shows locations and geography.",
+                    "It is often used in geography class.",
+                    "In the classroom, it is often hung on the wall to help students learn about geography, countries, and continents."
+                ]
+            },
+            {
+                "word": "Jam dinding",
+                "meaning": "Clock",
+                "clues": [
+                    "This shows the time of day.",
+                    "It is usually hung on the wall.",
+                    "In the classroom, it helps students and teachers keep track of time for lessons, breaks, and activities."
+                ]
+            },
+            {
+                "word": "Bola dunia",
+                "meaning": "Globe",
+                "clues": [
+                    "It helps students visualize the Earth’s surface and understand the relative positions of countries and oceans.",
+                    "It can be rotated to view different parts of the world from various angles.",
+                    "It is spherical and often spins to represent the earth"
+                ]
+            },
+            {
+                "word": "Proyektor",
+                "meaning": "Projector",
+                "clues": [
+                    "This device displays images or videos on a screen.",
+                    "It is often used in presentations.",
+                    "It requires a computer or video source to operate."
+                ]
+            },
+            {
+                "word": "Penjepit kertas",
+                "meaning": "Paperclip",
+                "clues": [
+                    "This small tool holds papers together.",
+                    "It is usually made of metal to hold papers.",
+                    "It is a small, metal or plastic item used to keep multiple sheets of paper together, preventing them from getting scattered."
+                ]
+            },
+            {
+                "word": "Pena sorot/pena penanda",
+                "meaning": "Highlighter",
+                "clues": [
+                    "This tool is used to mark important text.",
+                    "It comes in bright colors to mark important text.",
+                    "It is often used by students to emphasize important information or key points in their notes or textbooks."
+                ]
+            },
+            {
+                "word": "Pengasah pensil",
+                "meaning": "Sharpener",
+                "clues": [
+                    "This tool is used to sharpen pencils.",
+                    "It often has a small blade inside to sharpen pencil.",
+                    "It can be manual or electric to sharpen pencil."
+                ]
+            },
+            {
+                "word": "Gunting",
+                "meaning": "Scissors",
+                "clues": [
+                    "This tool is used for cutting paper.",
+                    "It has two blades and handles for cutting paper.",
+                    "It is commonly used in art and craft activities for cutting paper, cardboard, or other materials"
+                ]
+            },
+            {
+                "word": "Lem",
+                "meaning": "Glue",
+                "clues": [
+                    "This sticky substance is used to join things.",
+                    "It can be liquid or stick form.",
+                    "It is used for assembling craft projects, such as collages, by sticking various materials together."
+                ]
+            },
+            {
+                "word": "Kapur",
+                "meaning": "Chalk",
+                "clues": [
+                    "This is used for writing on a blackboard.",
+                    "It is a common tool in classrooms with blackboards.",
+                    "It is used on blackboard to write or draw during lessons"
+                ]
+            },
+            {
+                "word": "Tisu",
+                "meaning": "Tissue",
+                "clues": [
+                    "It is used for wiping or cleaning.",
+                    "It is soft and disposable for cleaning",
+                    "It is often found in a box for wiping or cleaning"
+                ]
+            },
+            {
+                "word": "Tempat sampah",
+                "meaning": "Trash Bin",
+                "clues": [
+                    "This is used for disposing of waste.",
+                    "It is often found in classrooms for disposing of waste",
+                    "It can be made of plastic or metal for disposing of waste"
+                ]
+            },
+            {
+                "word": "Kalender",
+                "meaning": "Calendar",
+                "clues": [
+                    "This shows the days, weeks, and months of the year.",
+                    "In the classroom, It can be hung on a wall or kept on a desk.",
+                    "It is used to keep track of dates and months. "
+                ]
+            },
+            {
+                "word": "Catatan tempel",
+                "meaning": "Sticky Notes",
+                "clues": [
+                    "These are small notes with adhesive on the back.",
+                    "These notes can be easily stuck on surfaces like desks, notebooks, or textbooks and are removable without leaving a residue.",
+                    "They come in bright colors and various sizes."
+                ]
+            },
+            {
+                "word": "Spidol",
+                "meaning": "Marker",
+                "clues": [
+                    "It is used for drawing or writing in colors.",
+                    "It comes in various colors and tip sizes for drawing or writing",
+                    "It often has a cap to prevent drying out."
+                ]
+            },
+            {
+                "word": "Kamus",
+                "meaning": "Dictionary",
+                "clues": [
+                    "This book provides definitions of words.",
+                    "It is an essential reference book for students learning new vocabulary and improving their language skills.",
+                    "It is typically organized alphabetically, making it easy to find specific words quickly."
+                ]
+            },
+            {
+                "word": "Staples",
+                "meaning": "Stapler",
+                "clues": [
+                    "A device used to fasten papers together.",
+                    "It uses metal clips called staples to fasten papers.",
+                    "This device makes a distinctive \"clicking\" sound when it binds papers with small metal clips."
+                ]
+            },
+            {
+                "word": "Layar",
+                "meaning": "Screen",
+                "clues": [
+                    "A flat surface where images are projected.",
+                    "It can be used for watching videos or slideshows.",
+                    "It is often located at the front of a classroom for watching videos or slideshows"
+                ]
+            },
+            {
+                "word": "Komputer",
+                "meaning": "Computer",
+                "clues": [
+                    "An electronic device used for various tasks.",
+                    "It can be used for typing",
+                    "This device often has a keyboard and monitor and is used for typing and running educational software."
+                ]
+            },
+            {
+                "word": "Jendela",
+                "meaning": "Window",
+                "clues": [
+                    "An opening in the wall of the classroom that lets in light and air.",
+                    "It can be opened or closed to control ventilation.",
+                    "I usually has glass panes that lets in light and air. "
+                ]
+            },
+            {
+                "word": "Pintu",
+                "meaning": "Door",
+                "clues": [
+                    "An entryway to a classroom",
+                    "It can be opened and closed to allow access to the classroom",
+                    "It often has a handle or knob."
+                ]
+            },
+            {
+                "word": "Rak buku",
+                "meaning": "Book case",
+                "clues": [
+                    "A piece of furniture for storing books.",
+                    "It usually has multiple shelves.",
+                    "It helps keep books organized and accessible."
+                ]
+            },
+            {
+                "word": "Poster",
+                "meaning": "Poster",
+                "clues": [
+                    "A large paper with information or pictures displayed on the wall.",
+                    "It can show educational content like grammar rules or multiplication tables.",
+                    "I helps reinforce lessons and decorate the classroom."
+                ]
+            },
+            {
+                "word": "Tirai",
+                "meaning": "Curtains",
+                "clues": [
+                    "Fabric panels used to cover windows in the classroom.",
+                    "I helps control the amount of natural light in the room.",
+                    "I provides privacy and can add color to the classroom decor."
+                ]
+            },
+            {
+                "word": "Papan Buletin Kelas",
+                "meaning": "Classroom bulletin board",
+                "clues": [
+                    "A board where announcements, student work, and information are displayed.",
+                    "Used for showcasing student achievements and important notices.",
+                    "It is often found on the wall in the classroom."
+                ]
+            },
+            {
+                "word": "Sapu",
+                "meaning": "Broom",
+                "clues": [
+                    "A cleaning tool with long, stiff bristles used to sweep the floor.",
+                    "It is often found alongside a dustpan to collect dirt and debris.",
+                    "It is used to keep the classroom floor tidy and free from dust or small particles."
+                ]
+            },
+            {
+                "word": "Kipas angin",
+                "meaning": "Fan",
+                "clues": [
+                    "A device used to circulate air and help cool down the classroom",
+                    "It is often found mounted on the ceiling or as a portable unit on a stand",
+                    "Provides a breeze to make the classroom more comfortable on hot days."
+                ]
+            },
+            {
+                "word": "AC",
+                "meaning": "Air conditioner",
+                "clues": [
+                    "A device used to regulate and cool the temperature in the classroom",
+                    "It is often mounted on the wall or placed in a window to control indoor climate.",
+                    "It helps keep the classroom cool and comfortable during hot weather."
+                ]
+            },
+            {
+                "word": "Rak sepatu",
+                "meaning": "Shoe rack",
+                "clues": [
+                    "A piece of furniture used to organize and store shoes.",
+                    "I helps keep the classroom floor clean by providing a place for students to leave their shoes.",
+                    "Often found near the entrance of the classroom or in a designated area for footwear."
+                ]
+            },
+            {
+                "word": "Sistem audio",
+                "meaning": "Audio system",
+                "clues": [
+                    "A set of equipment used to amplify and play sound in the classroom",
+                    "It includes components like speakers, microphones, and amplifiers to enhance audio during lessons.",
+                    "It helps ensure that students can hear audio recordings, announcements, or the teacher's voice clearly."
+                ]
+            },
+            {
+                "word": "Lemari",
+                "meaning": "Cupboard",
+                "clues": [
+                    "A piece of furniture with doors and shelves used for storing various items.",
+                    "Often used to keep classroom supplies, books, or teaching materials organized.",
+                    "It typically has shelves or compartments to help categorize and store items neatly."
+                ]
+            }
+        ],
+        "kitchen": [
+            {
+                "word": "Blender",
+                "meaning": "Blender",
+                "clues": [
+                    "It is used to mix or puree food.",
+                    "It can make smoothies or juice.",
+                    "It has a jar and blades."
+                ]
+            },
+            {
+                "word": "Pemanggang Roti",
+                "meaning": "Toaster",
+                "clues": [
+                    "It makes bread crispy.",
+                    "It often has slots for slices.",
+                    "It usually has a lever that you press down to start toasting."
+                ]
+            },
+            {
+                "word": "Microwave",
+                "meaning": "Microwave",
+                "clues": [
+                    "It heats food quickly.",
+                    "It heats food using electromagnetic waves.",
+                    "You often use it to reheat leftovers quickly."
+                ]
+            },
+            {
+                "word": "Kompor",
+                "meaning": "Stove",
+                "clues": [
+                    "It is used for cooking.",
+                    "It has burners on top.",
+                    "It can be gas or electric."
+                ]
+            },
+            {
+                "word": "Oven",
+                "meaning": "Oven",
+                "clues": [
+                    "It is used for baking.",
+                    "It typically has a door with a glass window and racks inside.",
+                    "You can set the temperature using a dial or digital controls."
+                ]
+            },
+            {
+                "word": "Kulkas",
+                "meaning": "Refrigerator",
+                "clues": [
+                    "It keeps food cold.",
+                    "It has a freezer compartment.",
+                    "It often has a separate compartment at the top or bottom for freezing food."
+                ]
+            },
+            {
+                "word": "Freezer",
+                "meaning": "Freezer",
+                "clues": [
+                    "It keeps food frozen.",
+                    "It is located inside the refrigerator.",
+                    "It is used to store ice cream and frozen meals."
+                ]
+            },
+            {
+                "word": "Wastafel",
+                "meaning": "Sink",
+                "clues": [
+                    "It is used for washing dishes.",
+                    "It is where you wash your hands and rinse fruits and vegetables.",
+                    "It usually has a soap dispenser next to it."
+                ]
+            },
+            {
+                "word": "Keran",
+                "meaning": "Faucet",
+                "clues": [
+                    "It provides water in the sink.",
+                    "It is usually found above the sink.",
+                    "It can be turned on and off to provide water in the sink "
+                ]
+            },
+            {
+                "word": "Papan Pemotong/Talenan",
+                "meaning": "Cutting Board",
+                "clues": [
+                    "It is used for chopping vegetables.",
+                    "It can be made of wood or plastic to chop vegetables",
+                    "It is a flat surface used for chopping vegetables and meat."
+                ]
+            },
+            {
+                "word": "Pisau",
+                "meaning": "Knife",
+                "clues": [
+                    "It is used for cutting food.",
+                    "It has a sharp blade.",
+                    "It has a handle and is often used in the kitchen for slicing."
+                ]
+            },
+            {
+                "word": "Wajan",
+                "meaning": "Pan",
+                "clues": [
+                    "It is used for frying and cooking.",
+                    "It has a handle for cooking",
+                    "It can be non-stick or stainless steel."
+                ]
+            },
+            {
+                "word": "Panci",
+                "meaning": "Pot",
+                "clues": [
+                    "It is used for boiling and simmering.",
+                    "It is often round and made of metal.",
+                    "It is used for boiling or cooking food on the stove."
+                ]
+            },
+            {
+                "word": "Sendok",
+                "meaning": "Spoon",
+                "clues": [
+                    "It is used for stirring and eating.",
+                    "It can be made of metal or plastic for eating",
+                    "It has a rounded end and is used to scoop up food."
+                ]
+            },
+            {
+                "word": "Garpu",
+                "meaning": "Fork",
+                "clues": [
+                    "It is used for picking up food.",
+                    "It has several prongs for picking up food.",
+                    "It is often used with knives."
+                ]
+            },
+            {
+                "word": "Piring",
+                "meaning": "Plate",
+                "clues": [
+                    "It is used to serve food.",
+                    "It is usually round and flat to serve food.",
+                    "It is made of ceramic or plastic to serve food"
+                ]
+            },
+            {
+                "word": "Mangkuk",
+                "meaning": "Bowl",
+                "clues": [
+                    "It is used for holding soups or cereal.",
+                    "It has a rounded shape.",
+                    "It is deeper than a plate and can hold liquid or solid food."
+                ]
+            },
+            {
+                "word": "Cangkir",
+                "meaning": "Cup",
+                "clues": [
+                    "It is used for drinking beverages.",
+                    "It often comes with a handle for drinking a cup of tea or coffee",
+                    "It can be made of ceramic or glass for drinking"
+                ]
+            },
+            {
+                "word": "Saringan",
+                "meaning": "Strainer",
+                "clues": [
+                    "It is used to separate liquid from solids.",
+                    "It is often used for draining noodle or pasta",
+                    "It has holes all over it for draning noodles, pasta, or vegetable"
+                ]
+            },
+            {
+                "word": "Pengupas",
+                "meaning": "Peeler",
+                "clues": [
+                    "It is used for removing skins from fruits and vegetables.",
+                    "It has a sharp edge to remove skins from fruits",
+                    "It has a sharp edge to make peeling easier."
+                ]
+            },
+            {
+                "word": "Pengocok",
+                "meaning": "Whisk",
+                "clues": [
+                    "It is used for beating eggs and mixing.",
+                    "It helps mix ingredients quickly",
+                    "It makes ingredients light and frothy when you stir them."
+                ]
+            },
+            {
+                "word": "Pembuka kaleng",
+                "meaning": "Can Opener",
+                "clues": [
+                    "It is used to open canned food or beverages",
+                    "It has a sharp blade and handle to open canned food or beverages",
+                    "It essential for accessing canned goods, food, and beverages"
+                ]
+            },
+            {
+                "word": "Rak piring",
+                "meaning": "Dish Rack",
+                "clues": [
+                    "It holds dishes while they dry.",
+                    "It is usually placed near the sink.",
+                    "It often has slots or spaces to hold plates and cups upright."
+                ]
+            },
+            {
+                "word": "Sarung tangan dapur",
+                "meaning": "Pot Holder",
+                "clues": [
+                    "It protects hands from hot pots.",
+                    "It is usually made of heat-resistant material.",
+                    "It’s used to grab hot dishes from the oven without burning your hands."
+                ]
+            },
+            {
+                "word": "Tempat sampah",
+                "meaning": "Trash bin",
+                "clues": [
+                    "It is used to throw away garbage and food scraps.",
+                    "It is often found in the kitchen or near the sink.",
+                    "It usually has a lid to keep smells inside."
+                ]
+            },
+            {
+                "word": "Spatula",
+                "meaning": "Spatula",
+                "clues": [
+                    "It helps you flip pancakes and stir food.",
+                    "It has a flat, flexible surface to stir food.",
+                    "It usually has a handle and can be made of plastic or metal to stir food"
+                ]
+            },
+            {
+                "word": "Sendok sayur",
+                "meaning": "Ladle",
+                "clues": [
+                    "It has a long handle and a deep bowl.",
+                    "It is used to serve soups and stews.",
+                    "It helps you pour liquid from a pot into a bowl or cup."
+                ]
+            },
+            {
+                "word": "Kuas makanan",
+                "meaning": "Basting Brush",
+                "clues": [
+                    "It is used to spread sauces or glazes on food.",
+                    "It helps add flavor to meat or vegetables before cooking.",
+                    "It looks like a small brush used to coat food with liquids."
+                ]
+            },
+            {
+                "word": "Rak bumbu",
+                "meaning": "Spice Rack",
+                "clues": [
+                    "It holds jars of spices and herbs.",
+                    "You use it to find and store different flavors for cooking.",
+                    "It can be a small shelf or stand with containers for different spices."
+                ]
+            },
+            {
+                "word": "Ketel",
+                "meaning": "Kettle",
+                "clues": [
+                    "It is used to boil water.",
+                    "It usually has a handle and a spout to boil water",
+                    "It often makes a whistling sound when the water is hot."
+                ]
+            },
+            {
+                "word": "Cetakan es",
+                "meaning": "Ice Cube Tray",
+                "clues": [
+                    "It is used to freeze water into ice cubes.",
+                    "Made of plastic or silicone to freeze water into ice cubes",
+                    "You put it in the freezer to make ice."
+                ]
+            },
+            {
+                "word": "Celemek",
+                "meaning": "Apron",
+                "clues": [
+                    "It is worn to keep your clothes clean while cooking.",
+                    "It ties around your waist or neck while cooking",
+                    "It often has pockets for holding small kitchen tools while cooking"
+                ]
+            },
+            {
+                "word": "Sendok es krim",
+                "meaning": "Ice Cream Scoop",
+                "clues": [
+                    "It has a round, deep end for scooping ice cream.",
+                    "It helps make perfect, round scoops of ice cream.",
+                    "You use it to serve ice cream into bowls or cones."
+                ]
+            },
+            {
+                "word": "Panci pemanggang",
+                "meaning": "Grill Pan",
+                "clues": [
+                    "It has ridges on the bottom for cooking food like meat or vegetables.",
+                    "It is used to grill food indoors on the stove.",
+                    "It helps give food grill marks and a smoky flavor."
+                ]
+            },
+            {
+                "word": "Sumpit",
+                "meaning": "Chopsticks",
+                "clues": [
+                    "They are long sticks used to pick up food.",
+                    "They are often used in Asian countries for eating.",
+                    "They are usually made of wood or plastic and come in pairs to pick up food"
+                ]
+            },
+            {
+                "word": "Mesin cuci piring",
+                "meaning": "Dishwasher",
+                "clues": [
+                    "It cleans dishes automatically.",
+                    "It uses water and detergent to clean dishes automatically",
+                    "It saves time compared to washing by hand."
+                ]
+            },
+            {
+                "word": "Lepek / alas cangkir",
+                "meaning": "Saucer",
+                "clues": [
+                    "It is placed under a cup or mug.",
+                    "It is usually made of the same material as the cup.",
+                    "It is a small, flat dish that sits under a cup."
+                ]
+            },
+            {
+                "word": "Parutan",
+                "meaning": "Grater",
+                "clues": [
+                    "It has a rough surface with many small holes.",
+                    "It is used to shred cheese or vegetables into small pieces.",
+                    "You rub food against it to make it smaller."
+                ]
+            },
+            {
+                "word": "Gelas ukur",
+                "meaning": "Measuring Cup",
+                "clues": [
+                    "It is used to measure how much liquid or dry ingredients you need.",
+                    "It usually has lines or numbers to show different amounts of liquid.",
+                    "You use it to make sure you add the right amount of ingredients when baking or cooking."
+                ]
+            },
+            {
+                "word": "Penggilas adonan",
+                "meaning": "Rolling Pin",
+                "clues": [
+                    "It is used to flatten dough for cookies or pizza.",
+                    "It is a long, cylindrical tool with handles on both ends to flatten dough",
+                    "You roll it back and forth over the dough to make it thin."
+                ]
+            }
+        ],
+        "livingroom": [
+            {
+                "word": "Sofa",
+                "meaning": "Sofa",
+                "clues": [
+                    "A piece of furniture to sit on.",
+                    "It usually has cushions.",
+                    "It is often found in front of the TV."
+                ]
+            },
+            {
+                "word": "Televisi",
+                "meaning": "Television",
+                "clues": [
+                    "You watch movies and shows on it.",
+                    "It has a screen.",
+                    "Sometimes called a TV."
+                ]
+            },
+            {
+                "word": "Lampu",
+                "meaning": "Lamp",
+                "clues": [
+                    "It provides light in the room.",
+                    "It can be turned on and off to provide light.",
+                    "It is often placed on a table or stand to provide light. "
+                ]
+            },
+            {
+                "word": "Tirai",
+                "meaning": "Curtain",
+                "clues": [
+                    "Cover the windows.",
+                    "It can be drawn open or closed to cover the windows",
+                    "It is made of fabric to cover the windows. "
+                ]
+            },
+            {
+                "word": "Karpet",
+                "meaning": "Rug",
+                "clues": [
+                    "It covers the floor in the living room",
+                    "It can be colorful or patterned to cover the floor in the living room",
+                    "You can walk on it in the living room "
+                ]
+            },
+            {
+                "word": "Rak buku",
+                "meaning": "Bookshelf",
+                "clues": [
+                    "It has many shelves to keep your books",
+                    "It helps you organize your books and keeps them neat.",
+                    "You put your favorite books on it."
+                ]
+            },
+            {
+                "word": "Lukisan",
+                "meaning": "Painting",
+                "clues": [
+                    "It hangs on the wall and is colorful.",
+                    "It is made with paint on paper or canvas.",
+                    "You can see pictures of people, places, or things on it."
+                ]
+            },
+            {
+                "word": "Jam dinding",
+                "meaning": "Clock",
+                "clues": [
+                    "You look at it when you want to know the hour or minute.",
+                    "It helps you know what time it is.",
+                    "It makes a \"tick-tock\" sound."
+                ]
+            },
+            {
+                "word": "Vas bunga",
+                "meaning": "Flower Vase",
+                "clues": [
+                    "You put flowers in it to make the room pretty.",
+                    "It can be made of glass, ceramic, or plastic to put flowers",
+                    "It usually stands on a table or shelf to put flowers. "
+                ]
+            },
+            {
+                "word": "Kipas angin",
+                "meaning": "Fan",
+                "clues": [
+                    "It blows cool air to make you feel comfortable in the livingroom.",
+                    "It has blades that spin around.",
+                    "It makes a soft \"whirring\" sound when it's on."
+                ]
+            },
+            {
+                "word": "Kursi",
+                "meaning": "Chair",
+                "clues": [
+                    "You can find it around a table or in the living room.",
+                    "You sit on it to rest or relax in the living room.",
+                    "It has four legs and a seat."
+                ]
+            },
+            {
+                "word": "AC / Pendingin ruangan",
+                "meaning": "Air Conditioner",
+                "clues": [
+                    "It makes the living room cool when it’s hot outside.",
+                    "It blows cold air when you turn it on.",
+                    "You can control it with a remote."
+                ]
+            },
+            {
+                "word": "Bingkai foto",
+                "meaning": "Photo frame",
+                "clues": [
+                    "It holds your favorite photos.",
+                    "You can place it on a table or hang it on the wall.",
+                    "It has a special place for the photo to stay inside."
+                ]
+            },
+            {
+                "word": "Jendela",
+                "meaning": "Window",
+                "clues": [
+                    "It lets light and fresh air into the living room.",
+                    "It can be opened or closed with a handle.",
+                    "You can see outside through it."
+                ]
+            },
+            {
+                "word": "Lampu gantung",
+                "meaning": "Chandelier",
+                "clues": [
+                    "It hangs from the ceiling and lights up the room.",
+                    "It often has decorations like crystals to light up the room.",
+                    "It has many light bulbs or candles on it."
+                ]
+            },
+            {
+                "word": "Kotak tisu",
+                "meaning": "Tissue Box",
+                "clues": [
+                    "You pull tissues out one by one from the top.",
+                    "It holds tissues that you use to wipe your nose.",
+                    "You find it on a table or a shelf in the living room to hold tissue"
+                ]
+            },
+            {
+                "word": "Keset pintu",
+                "meaning": "Door mat",
+                "clues": [
+                    "You place it outside or inside your door.",
+                    "It helps clean your shoes before you go inside.",
+                    "You step on it when you enter or leave the house."
+                ]
+            },
+            {
+                "word": "Bel pintu",
+                "meaning": "Doorbell",
+                "clues": [
+                    "It makes a ringing sound when you press it.",
+                    "It is usually next to the front door to make a ringing.",
+                    "It can be a button or a small round object to make a ringing"
+                ]
+            },
+            {
+                "word": "Tanaman hias",
+                "meaning": "Houseplant",
+                "clues": [
+                    "It is a plant that grows inside your home.",
+                    "It usually comes in a pot or container in the living room.",
+                    "It can have green leaves or colorful flowers that grow inside your home. "
+                ]
+            },
+            {
+                "word": "Taplak meja",
+                "meaning": "Tablecloth",
+                "clues": [
+                    "It covers the top of a table.",
+                    "It helps protect the table from spills and stains.",
+                    "You spread it out before you set the table."
+                ]
+            }
+        ],
+        "body": [
+            {
+                "word": "kepala",
+                "meaning": "Head",
+                "clues": [
+                    "It's at the top of your body.",
+                    "You wear a hat on it.",
+                    "You nod it to say yes."
+                ]
+            },
+            {
+                "word": "Rambut",
+                "meaning": "Hair",
+                "clues": [
+                    "It grows on top of your head.",
+                    "You can cut or style it.",
+                    "It can be curly, straight, or wavy."
+                ]
+            },
+            {
+                "word": "Wajah",
+                "meaning": "Face",
+                "clues": [
+                    "It shows your expressions.",
+                    "It has your eyes, nose, and mouth.",
+                    "People recognize you by this."
+                ]
+            },
+            {
+                "word": "Mata",
+                "meaning": "Eyes",
+                "clues": [
+                    "You use them to see.",
+                    "They blink to protect themselves.",
+                    "They can be different colors like brown, blue, or black"
+                ]
+            },
+            {
+                "word": "Telinga",
+                "meaning": "Ears",
+                "clues": [
+                    "You use them to hear.",
+                    "They help you listen to music.",
+                    "You have one on each side of your head."
+                ]
+            },
+            {
+                "word": "Hidung",
+                "meaning": "Nose",
+                "clues": [
+                    "You use it to smell.",
+                    "It helps you breathe.",
+                    "It helps you smell flowers."
+                ]
+            },
+            {
+                "word": "Mulut",
+                "meaning": "Mouth",
+                "clues": [
+                    "You use it to talk and eat.",
+                    "It has your tongue and teeth inside.",
+                    "You can smile or laugh with it."
+                ]
+            },
+            {
+                "word": "Lidah",
+                "meaning": "Tongue",
+                "clues": [
+                    "You use it to taste food.",
+                    "It can taste sweet, sour, or salty.",
+                    "It helps you lick ice cream."
+                ]
+            },
+            {
+                "word": "Leher",
+                "meaning": "Neck",
+                "clues": [
+                    "It connects your head to your body.",
+                    "You turn it to look left or right.",
+                    "You can feel your pulse on it."
+                ]
+            },
+            {
+                "word": "Tangan",
+                "meaning": "Hands",
+                "clues": [
+                    "You use them to grab and hold things.",
+                    "They have fingers and a thumb",
+                    "You clap them when you're happy."
+                ]
+            },
+            {
+                "word": "Jari Tangan",
+                "meaning": "Fingers",
+                "clues": [
+                    "You have five of them on each hand.",
+                    "You use them to type on a keyboard.",
+                    "You wear rings on them."
+                ]
+            },
+            {
+                "word": "Ibu jari",
+                "meaning": "Thumb",
+                "clues": [
+                    "It is shorter and thicker than your other fingers.",
+                    "You give a \"thumbs up\" when something is good.",
+                    "It helps you grip things tightly."
+                ]
+            },
+            {
+                "word": "Kuku",
+                "meaning": "Nails",
+                "clues": [
+                    "They grow at the tips of your fingers and toes.",
+                    "You can cut or paint them.",
+                    "They can be long or short."
+                ]
+            },
+            {
+                "word": "Punggung",
+                "meaning": "Back",
+                "clues": [
+                    "It helps you sit up straight.",
+                    "You might feel it ache if you carry something heavy.",
+                    "You can stretch it by bending forward."
+                ]
+            },
+            {
+                "word": "Perut",
+                "meaning": "Stomach",
+                "clues": [
+                    "It can growl when you're hungry.",
+                    "You rub it when you're full.",
+                    "It can feel sick if you eat too much."
+                ]
+            },
+            {
+                "word": "Pinggang",
+                "meaning": "Waist",
+                "clues": [
+                    "It’s just above your hips.",
+                    "You wear belts around it.",
+                    "You measure it to check your clothing size."
+                ]
+            },
+            {
+                "word": "Kaki",
+                "meaning": "Legs",
+                "clues": [
+                    "They are longer than your arms.",
+                    "You stand on them.",
+                    "You kick a ball with them."
+                ]
+            },
+            {
+                "word": "Jari kaki",
+                "meaning": "Toes",
+                "clues": [
+                    "You have five on each foot.",
+                    "They are at the front of your feet.",
+                    "You wear socks to keep them warm."
+                ]
+            },
+            {
+                "word": "Kulit",
+                "meaning": "Skin",
+                "clues": [
+                    "It covers and protects your whole body.",
+                    "It can be smooth, rough, or dry.",
+                    "You feel touch through it."
+                ]
+            },
+            {
+                "word": "Tulang",
+                "meaning": "Bones",
+                "clues": [
+                    "They give your body shape.",
+                    "You see them in an X-ray.",
+                    "You have many of them inside your body."
+                ]
+            },
+            {
+                "word": "Jantung",
+                "meaning": "Heart",
+                "clues": [
+                    "It pumps blood through your body.",
+                    "It beats faster when you run.",
+                    "You can feel it beat when you're nervous."
+                ]
+            },
+            {
+                "word": "Paru-paru",
+                "meaning": "Lungs",
+                "clues": [
+                    "You use them to breathe.",
+                    "They fill with air when you inhale.",
+                    "They help you take deep breaths."
+                ]
+            },
+            {
+                "word": "Otot",
+                "meaning": "Muscles",
+                "clues": [
+                    "They help you move and lift things.",
+                    "You can build them by exercising.",
+                    "They can feel sore after a workout."
+                ]
+            },
+            {
+                "word": "Pipi",
+                "meaning": "Cheek",
+                "clues": [
+                    "It’s on the side of your face.",
+                    "It turns red when you blush.",
+                    "You can pinch it gently."
+                ]
+            },
+            {
+                "word": "Dahi",
+                "meaning": "Forehead",
+                "clues": [
+                    "It’s the area above your eyes.",
+                    "You touch it when you have a headache.",
+                    "It wrinkles when you raise your eyebrows."
+                ]
+            },
+            {
+                "word": "Dagu",
+                "meaning": "Chin",
+                "clues": [
+                    "It’s below your mouth.",
+                    "You can rest your hand on it when thinking.",
+                    "It sticks out when you look up."
+                ]
+            },
+            {
+                "word": "Alis",
+                "meaning": "Eyebrows",
+                "clues": [
+                    "They are above your eyes.",
+                    "You raise them when you are surprised.",
+                    "Some people shape them to look neat."
+                ]
+            },
+            {
+                "word": "Bulu mata",
+                "meaning": "Eyelashes",
+                "clues": [
+                    "They protect your eyes from dust.",
+                    "They are long and thin.",
+                    "People use mascara to make them stand out."
+                ]
+            },
+            {
+                "word": "Pergelangan tangan",
+                "meaning": "Wrists",
+                "clues": [
+                    "They connect your hands to your arms.",
+                    "You wear bracelets or watches on them.",
+                    "You twist them to move your hands."
+                ]
+            },
+            {
+                "word": "Paha",
+                "meaning": "Thigh",
+                "clues": [
+                    "It’s the top part of your leg.",
+                    "It helps you walk and run.",
+                    "It’s between your hips and knees."
+                ]
+            },
+            {
+                "word": "Telapak kaki",
+                "meaning": "Sole",
+                "clues": [
+                    "It’s the bottom part of your foot.",
+                    "You walk on it all day.",
+                    "It can get ticklish if someone touches it."
+                ]
+            },
+            {
+                "word": "Lubang hidung",
+                "meaning": "Nostril",
+                "clues": [
+                    "It’s part of your nose.",
+                    "You use it to breathe air.",
+                    "It’s where you smell things."
+                ]
+            },
+            {
+                "word": "Bahu",
+                "meaning": "Shoulders",
+                "clues": [
+                    "You carry a backpack on them.",
+                    "You shrug them when you're unsure.",
+                    "They are at the top of your arms."
+                ]
+            },
+            {
+                "word": "Siku",
+                "meaning": "Elbow",
+                "clues": [
+                    "They let your arms bend.",
+                    "You use them when you lean on a table.",
+                    "You can rest them on the arm of a chair."
+                ]
+            },
+            {
+                "word": "Dada",
+                "meaning": "Chest",
+                "clues": [
+                    "It protects your heart and lungs.",
+                    "You feel it rise when you breathe.",
+                    "You pat it when you cough."
+                ]
+            },
+            {
+                "word": "Telapak tangan",
+                "meaning": "Palms",
+                "clues": [
+                    "They are the inside part of your hands.",
+                    "You feel heat when you place them on something warm.",
+                    "You clap them together to make a sound."
+                ]
+            },
+            {
+                "word": "Hati",
+                "meaning": "Liver",
+                "clues": [
+                    "It helps filter toxins from your blood.",
+                    "It’s located on the right side of your abdomen.",
+                    "It plays a key role in digestion and metabolism."
+                ]
+            },
+            {
+                "word": "Ginjal",
+                "meaning": "Kidneys",
+                "clues": [
+                    "They filter waste from your blood to make urine.",
+                    "You have two of them.",
+                    "They are located in your lower back."
+                ]
+            },
+            {
+                "word": "Tulang rusuk",
+                "meaning": "Ribs",
+                "clues": [
+                    "They protect your heart and lungs.",
+                    "They form a cage around your chest.",
+                    "You can feel them when you take a deep breath."
+                ]
+            },
+            {
+                "word": "Kulit kepala",
+                "meaning": "Scalp",
+                "clues": [
+                    "It’s where your hair grows.",
+                    "You can massage it to feel relaxed.",
+                    "It can get dry and itchy if not cared for."
+                ]
+            },
+            {
+                "word": "Gusi",
+                "meaning": "Gums",
+                "clues": [
+                    "They hold your teeth in place.",
+                    "They can be pink, red, or swollen if unhealthy.",
+                    "You need to brush them to keep them healthy."
+                ]
+            },
+            {
+                "word": "Pembuluh darah",
+                "meaning": "Veins",
+                "clues": [
+                    "They carry blood through your body.",
+                    "You can see them under your skin.",
+                    "They are blue or green in color."
+                ]
+            },
+            {
+                "word": "Jakun",
+                "meaning": "Adam’s Apple",
+                "clues": [
+                    "It’s more visible in men than in women.",
+                    "It moves when you swallow or talk.",
+                    "It’s a noticeable bump in your throat."
+                ]
+            },
+            {
+                "word": "Bibir",
+                "meaning": "Lips",
+                "clues": [
+                    "They are soft and help you talk.",
+                    "You use them to kiss someone you love.",
+                    "You can put lip balm on them when they’re dry."
+                ]
+            },
+            {
+                "word": "Kelopak Mata",
+                "meaning": "Eyelid",
+                "clues": [
+                    "It covers and protects your eye.",
+                    "You blink with it.",
+                    "You close it when you sleep."
+                ]
+            },
+            {
+                "word": "Tumit",
+                "meaning": "Heel",
+                "clues": [
+                    "It’s the back part of your foot.",
+                    "You walk and stand on it.",
+                    "Sometimes it hurts after standing for a long time."
+                ]
+            },
+            {
+                "word": "Pergelangan Kaki",
+                "meaning": "Ankle",
+                "clues": [
+                    "It connects your foot to your leg.",
+                    "It helps you walk and run.",
+                    "You can twist it if you fall."
+                ]
+            },
+            {
+                "word": "Tengkorak",
+                "meaning": "Skull",
+                "clues": [
+                    "It’s the bone that protects your brain.",
+                    "It forms the shape of your head.",
+                    "It’s hard and strong."
+                ]
+            },
+            {
+                "word": "Otak",
+                "meaning": "Brain",
+                "clues": [
+                    "It helps you think and solve problems.",
+                    "It controls your body.",
+                    "It’s protected by your skull."
+                ]
+            },
+            {
+                "word": "Pupil",
+                "meaning": "Pupil",
+                "clues": [
+                    "It’s the black center part of your eye.",
+                    "It changes size depending on the light.",
+                    "It helps control how much light enters your eye."
+                ]
+            }
+        ],
+        "profession": [
+            {
+                "word": "Dokter",
+                "meaning": "Doctor",
+                "clues": [
+                    "Works in a hospital.",
+                    "Helps sick people.",
+                    "Wears a white coat."
+                ]
+            },
+            {
+                "word": "Guru",
+                "meaning": "Teacher",
+                "clues": [
+                    "Works in a school.",
+                    "Teaches students.",
+                    "Gives homework at school "
+                ]
+            },
+            {
+                "word": "Koki",
+                "meaning": "Chef",
+                "clues": [
+                    "Works in a kitchen.",
+                    "Cooks food at the restaurant",
+                    "Wears a tall hat in the kitchen "
+                ]
+            },
+            {
+                "word": "Polisi",
+                "meaning": "Police",
+                "clues": [
+                    "Keeps people safe.",
+                    "Wears a uniform.",
+                    "Drives a patrol car."
+                ]
+            },
+            {
+                "word": "Pemadam kebakaran",
+                "meaning": "Firefighter",
+                "clues": [
+                    "Puts out fires.",
+                    "Wears a helmet to put out fires",
+                    "Drives a big red truck."
+                ]
+            },
+            {
+                "word": "Petani",
+                "meaning": "Farmer",
+                "clues": [
+                    "Works on a farm.",
+                    "Grows crops.",
+                    "Drives a tractor"
+                ]
+            },
+            {
+                "word": "Pilot",
+                "meaning": "Pilot",
+                "clues": [
+                    "Flies airplanes.",
+                    "Wears a uniform.",
+                    "Travels in the sky."
+                ]
+            },
+            {
+                "word": "Dokter gigi",
+                "meaning": "Dentist",
+                "clues": [
+                    "Takes care of teeth.",
+                    "Uses a drill to take care your teeth",
+                    "Works in a clinic."
+                ]
+            },
+            {
+                "word": "Pembuat roti",
+                "meaning": "Baker",
+                "clues": [
+                    "Bakes bread and cakes.",
+                    "Works in a bakery.",
+                    "Uses an oven."
+                ]
+            },
+            {
+                "word": "Montir",
+                "meaning": "Mechanic",
+                "clues": [
+                    "Fixes cars.",
+                    "Uses tools to fix car",
+                    "Works in a workshop to fix car"
+                ]
+            },
+            {
+                "word": "Seniman",
+                "meaning": "Artist",
+                "clues": [
+                    "Paints pictures.",
+                    "Uses brushes and colors to paint pictures.",
+                    "Works in a studio to paint pictures. "
+                ]
+            },
+            {
+                "word": "Penyanyi",
+                "meaning": "Singer",
+                "clues": [
+                    "Uses a microphone.",
+                    "Sings songs.",
+                    "Performs on stage."
+                ]
+            },
+            {
+                "word": "Pustakawan",
+                "meaning": "Librarian",
+                "clues": [
+                    "Works in a library.",
+                    "Helps people find books at the library",
+                    "Keeps books organized at the library"
+                ]
+            },
+            {
+                "word": "Aktor/Aktris",
+                "meaning": "Actor/Actress",
+                "clues": [
+                    "Performs in movies or plays.",
+                    "Wears costumes in movies or plays",
+                    "Acts in front of a camera."
+                ]
+            },
+            {
+                "word": "Ilmuwan",
+                "meaning": "Scientist",
+                "clues": [
+                    "Works in a lab.",
+                    "Conducts experiments in a lab.",
+                    "Wears a lab coat."
+                ]
+            },
+            {
+                "word": "Astronot",
+                "meaning": "Astronaut",
+                "clues": [
+                    "Travels to space.",
+                    "Wears a space suit.",
+                    "Works in a spaceship."
+                ]
+            },
+            {
+                "word": "Sopir",
+                "meaning": "Driver",
+                "clues": [
+                    "Drives a public vehicle",
+                    "Picks up passengers.",
+                    "Works on a set route."
+                ]
+            },
+            {
+                "word": "Pelayan restoran",
+                "meaning": "Waiter/Waitress",
+                "clues": [
+                    "Works in a restaurant.",
+                    "Serves food to customers.",
+                    "Carries plates at the restaurant "
+                ]
+            },
+            {
+                "word": "Dokter hewan",
+                "meaning": "Veterinarian",
+                "clues": [
+                    "Helps sick animals.",
+                    "Works in a clinic.",
+                    "Cares for pets."
+                ]
+            },
+            {
+                "word": "Fotografer",
+                "meaning": "Photographer",
+                "clues": [
+                    "Takes pictures.",
+                    "Uses a camera.",
+                    "Works at events or in a studio to take picture"
+                ]
+            },
+            {
+                "word": "Tukang kayu",
+                "meaning": "Carpenter",
+                "clues": [
+                    "Builds furniture.",
+                    "Works with wood.",
+                    "Uses a hammer and nails to build furniture"
+                ]
+            },
+            {
+                "word": "Tukang ledeng/pipa",
+                "meaning": "Plumber",
+                "clues": [
+                    "Fixes water pipes.",
+                    "Uses a wrench to fix water pipe",
+                    "Works in homes or buildings to fix water pipe. "
+                ]
+            },
+            {
+                "word": "Tukang listrik",
+                "meaning": "Electrician",
+                "clues": [
+                    "Fixes electrical wires.",
+                    "Uses tools to fix electrical wires.",
+                    "Works with lights and power."
+                ]
+            },
+            {
+                "word": "Tukang kebun",
+                "meaning": "Gardener",
+                "clues": [
+                    "Takes care of plants.",
+                    "Uses a hose and rake.",
+                    "Works outdoors to take care of plants"
+                ]
+            },
+            {
+                "word": "Wartawan",
+                "meaning": "Journalist",
+                "clues": [
+                    "Writes news articles.",
+                    "Works for newspapers or TV.",
+                    "Interviews people."
+                ]
+            },
+            {
+                "word": "Tukang daging",
+                "meaning": "Butcher",
+                "clues": [
+                    "Cuts meat.",
+                    "Works in a butcher shop.",
+                    "Uses knives to cut meat"
+                ]
+            },
+            {
+                "word": "Tukang cukur",
+                "meaning": "Barber",
+                "clues": [
+                    "Cuts hair.",
+                    "Works in a barber shop.",
+                    "Uses scissors to cut hair "
+                ]
+            },
+            {
+                "word": "Penjahit",
+                "meaning": "Tailor",
+                "clues": [
+                    "Makes clothes.",
+                    "Uses a sewing machine.",
+                    "Measures fabric to make clothes"
+                ]
+            },
+            {
+                "word": "Musisi",
+                "meaning": "Musician",
+                "clues": [
+                    "Plays instruments.",
+                    "Performs in concerts.",
+                    "Reads sheet music."
+                ]
+            },
+            {
+                "word": "Penari",
+                "meaning": "Dancer",
+                "clues": [
+                    "Performs on stage.",
+                    "Moves to music.",
+                    "Wears special costumes."
+                ]
+            },
+            {
+                "word": "Resepsionis",
+                "meaning": "Receptionist",
+                "clues": [
+                    "Greets visitors.",
+                    "Answers the phone.",
+                    "Works at a front desk."
+                ]
+            },
+            {
+                "word": "Teller bank",
+                "meaning": "Bank Teller",
+                "clues": [
+                    "Works in a bank.",
+                    "Helps people with money.",
+                    "Counts cash in a bank "
+                ]
+            },
+            {
+                "word": "Pramugara/pramugari",
+                "meaning": "Flight Attendant",
+                "clues": [
+                    "Works on an airplane.",
+                    "Helps passengers on an airplane",
+                    "Serves food and drinks on an airplance"
+                ]
+            },
+            {
+                "word": "Apoteker",
+                "meaning": "Pharmacist",
+                "clues": [
+                    "Works in a pharmacy.",
+                    "Gives medicine to people in a pharmacy",
+                    "Reads prescriptions in a pharmacy"
+                ]
+            },
+            {
+                "word": "Dokter bedah",
+                "meaning": "Surgeon",
+                "clues": [
+                    "Performs operations at the hospital",
+                    "Wears a mask and gloves at the hospital",
+                    "Works in a hospital."
+                ]
+            },
+            {
+                "word": "Hakim",
+                "meaning": "Judge",
+                "clues": [
+                    "Works in a court.",
+                    "Wears a robe in a court",
+                    "Decides if people are guilty or innocent in a court"
+                ]
+            },
+            {
+                "word": "Pengacara",
+                "meaning": "Lawyer",
+                "clues": [
+                    "Works in courtrooms or offices.",
+                    "Helps people with legal problems.",
+                    "Gives advice on laws."
+                ]
+            },
+            {
+                "word": "Penjaga keamanan",
+                "meaning": "Security Guard",
+                "clues": [
+                    "Protects buildings or people.",
+                    "Wears a uniform.",
+                    "Checks for safety."
+                ]
+            },
+            {
+                "word": "Penerjemah",
+                "meaning": "Translator",
+                "clues": [
+                    "Changes words into different languages.",
+                    "Works with books or people.",
+                    "Understands many languages."
+                ]
+            },
+            {
+                "word": "Arsitek",
+                "meaning": "Architect",
+                "clues": [
+                    "Designs buildings.",
+                    "Draws plans of buildings or homes",
+                    "Uses a ruler and pencil to design building or home"
+                ]
+            },
+            {
+                "word": "Penjaga kebun binatang",
+                "meaning": "Zoo Keeper",
+                "clues": [
+                    "Takes care of animals at the zoo.",
+                    "Works in a zoo.",
+                    "Feeds lions, monkeys, elephants, and other animals at the zoo"
+                ]
+            },
+            {
+                "word": "Perawat",
+                "meaning": "Nurse",
+                "clues": [
+                    "Cares for patients in hospitals or clinics.",
+                    "Administers medications in hospitals or clinics",
+                    "Assists doctors with treatments."
+                ]
+            },
+            {
+                "word": "Kartunis",
+                "meaning": "Cartoonist",
+                "clues": [
+                    "Draws cartoons and comic strips.",
+                    "Creates characters and stories.",
+                    "Works for newspapers or in animation."
+                ]
+            },
+            {
+                "word": "Perancang busana",
+                "meaning": "Fashion Designer",
+                "clues": [
+                    "Creates clothing and accessories.",
+                    "Works with fabrics and patterns.",
+                    "Designs new fashion trends."
+                ]
+            },
+            {
+                "word": "Koreografer",
+                "meaning": "Choreographer",
+                "clues": [
+                    "Creates dance routines and performances.",
+                    "Works with dancers and performers.",
+                    "Designs movements and steps in dancing and performance"
+                ]
+            },
+            {
+                "word": "Agen perjalanan",
+                "meaning": "Travel Agent",
+                "clues": [
+                    "Plans and books travel arrangements.",
+                    "Helps customers with itineraries and accommodations.",
+                    "Works in travel agencies or online."
+                ]
+            },
+            {
+                "word": "Nelayan",
+                "meaning": "Fisherman",
+                "clues": [
+                    "Catches fish from water.",
+                    "Works on boats or by the shore.",
+                    "Uses bait to attract fish."
+                ]
+            },
+            {
+                "word": "Kasir",
+                "meaning": "Clerk",
+                "clues": [
+                    "Works at a checkout counter.",
+                    "Works in a store or office to organize and process transactions",
+                    "Handles cash and credit cards the department store, shop, etc. "
+                ]
+            },
+            {
+                "word": "Atlit",
+                "meaning": "Athlete",
+                "clues": [
+                    "Participates in sports or physical activities.",
+                    "Works out and follows a fitness routine.",
+                    "Competes in games or tournaments."
+                ]
+            },
+            {
+                "word": "Dosen",
+                "meaning": "Lecturer",
+                "clues": [
+                    "Teaches at a college or university.",
+                    "Prepares and gives lessons on specific subjects at university",
+                    "Engages with students in a classroom setting in university level"
+                ]
+            }
+        ]
+    }
+}

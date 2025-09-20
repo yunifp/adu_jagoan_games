@@ -1,0 +1,549 @@
+{
+  "categories": {
+    "animals": [
+      {
+        "word": "kucing",
+        "meaning": "cat",
+        "clues": [
+          "It purrs when it's happy.",
+          "It has a keen sense of smell.",
+          "It chases mice.",
+          "It often says 'meow'.",
+          "It has whiskers."
+        ]
+      },
+      {
+        "word": "anjing",
+        "meaning": "dog",
+        "clues": [
+          "It's known as man's best friend.",
+          "It barks when it sees strangers.",
+          "It wags its tail when it's happy.",
+          "It often says 'woof'.",
+          "It can be trained to fetch."
+        ]
+      },
+      {
+        "word": "gajah",
+        "meaning": "elephant",
+        "clues": [
+          "It's the largest land animal.",
+          "It has a long trunk.",
+          "It has big ears.",
+          "It has tusks made of ivory.",
+          "It is known for its memory."
+        ]
+      },
+      {
+        "word": "singa",
+        "meaning": "lion",
+        "clues": [
+          "It's known as the king of the jungle.",
+          "It has a mane around its neck.",
+          "It is a big cat.",
+          "It roars loudly.",
+          "It is a symbol of strength."
+        ]
+      },
+      {
+        "word": "macan",
+        "meaning": "tiger",
+        "clues": [
+          "It has black stripes.",
+          "It's the largest of the big cats.",
+          "It hunts at night.",
+          "It is known for its stealth.",
+          "It lives in jungles and forests."
+        ]
+      },
+      {
+        "word": "kuda",
+        "meaning": "horse",
+        "clues": [
+          "It's known for its speed.",
+          "It has hooves.",
+          "It is often ridden by people.",
+          "It neighs.",
+          "It can pull carriages."
+        ]
+      }
+    ],
+    "fish": [
+      {
+        "word": "ikan mas",
+        "meaning": "goldfish",
+        "clues": [
+          "It is often kept as a pet.",
+          "It has a golden color.",
+          "It lives in freshwater.",
+          "It has scales.",
+          "It swims in tanks."
+        ]
+      },
+      {
+        "word": "hiu",
+        "meaning": "shark",
+        "clues": [
+          "It has sharp teeth.",
+          "It is a predator of the sea.",
+          "It has a fin on its back.",
+          "It can smell blood from miles away.",
+          "It is featured in many movies."
+        ]
+      },
+      {
+        "word": "ikan pari",
+        "meaning": "stingray",
+        "clues": [
+          "It has a flat body.",
+          "It has a long tail.",
+          "It lives on the ocean floor.",
+          "It is related to sharks.",
+          "It can sting with its tail."
+        ]
+      },
+      {
+        "word": "ikan nila",
+        "meaning": "tilapia",
+        "clues": [
+          "It is commonly farmed for food.",
+          "It is found in freshwater.",
+          "It is often grilled or fried.",
+          "It has a mild taste.",
+          "It is a popular fish in many cuisines."
+        ]
+      },
+      {
+        "word": "ikan lele",
+        "meaning": "catfish",
+        "clues": [
+          "It has whiskers like a cat.",
+          "It lives in muddy waters.",
+          "It is often fried and served in Southeast Asia.",
+          "It is a bottom feeder.",
+          "It has smooth skin without scales."
+        ]
+      },
+      {
+        "word": "ikan salmon",
+        "meaning": "salmon",
+        "clues": [
+          "It is pink in color.",
+          "It is often eaten raw in sushi.",
+          "It migrates upstream to lay eggs.",
+          "It is rich in omega-3 fatty acids.",
+          "It is a popular fish in the Pacific Northwest."
+        ]
+      }
+    ],
+    "birds": [
+      {
+        "word": "burung merpati",
+        "meaning": "pigeon",
+        "clues": [
+          "It is often found in cities.",
+          "It is known for its homing ability.",
+          "It coos softly.",
+          "It was used to carry messages.",
+          "It has a strong sense of direction."
+        ]
+      },
+      {
+        "word": "elang",
+        "meaning": "eagle",
+        "clues": [
+          "It is a symbol of freedom.",
+          "It has sharp talons.",
+          "It has excellent eyesight.",
+          "It soars high in the sky.",
+          "It is a bird of prey."
+        ]
+      },
+      {
+        "word": "burung hantu",
+        "meaning": "owl",
+        "clues": [
+          "It is active at night.",
+          "It has large eyes.",
+          "It can rotate its head 270 degrees.",
+          "It is known for its hooting sound.",
+          "It is often associated with wisdom."
+        ]
+      },
+      {
+        "word": "burung kakak tua",
+        "meaning": "parrot",
+        "clues": [
+          "It can mimic human speech.",
+          "It has brightly colored feathers.",
+          "It is often kept as a pet.",
+          "It has a curved beak.",
+          "It is found in tropical regions."
+        ]
+      },
+      {
+        "word": "burung kolibri",
+        "meaning": "hummingbird",
+        "clues": [
+          "It hovers in the air.",
+          "It drinks nectar from flowers.",
+          "It is very small in size.",
+          "It flaps its wings rapidly.",
+          "It is known for its agility."
+        ]
+      },
+      {
+        "word": "burung pipit",
+        "meaning": "sparrow",
+        "clues": [
+          "It is small and brown.",
+          "It is common in many parts of the world.",
+          "It has a chirping song.",
+          "It is often seen in gardens.",
+          "It is a social bird that lives in flocks."
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "word": "martil",
+        "meaning": "hammer",
+        "clues": [
+          "It is used to drive nails into wood.",
+          "It has a heavy head and a handle.",
+          "It is used in construction.",
+          "It can be used to break things.",
+          "It is often made of metal."
+        ]
+      },
+      {
+        "word": "gergaji",
+        "meaning": "saw",
+        "clues": [
+          "It is used to cut wood.",
+          "It has sharp teeth.",
+          "It can be hand-held or powered.",
+          "It makes a sawing motion.",
+          "It is a tool found in workshops."
+        ]
+      },
+      {
+        "word": "obeng",
+        "meaning": "screwdriver",
+        "clues": [
+          "It is used to turn screws.",
+          "It has a handle and a shaft.",
+          "It comes in flathead and Phillips varieties.",
+          "It is a common household tool.",
+          "It can be used to assemble furniture."
+        ]
+      },
+      {
+        "word": "paku",
+        "meaning": "nail",
+        "clues": [
+          "It is driven into wood with a hammer.",
+          "It is used to join pieces of wood together.",
+          "It is pointed at one end.",
+          "It is made of metal.",
+          "It is commonly used in construction."
+        ]
+      },
+      {
+        "word": "kunci inggris",
+        "meaning": "wrench",
+        "clues": [
+          "It is used to tighten or loosen nuts and bolts.",
+          "It has an adjustable jaw.",
+          "It is a common tool in mechanics.",
+          "It can be adjusted to fit different sizes.",
+          "It is also known as an adjustable spanner."
+        ]
+      },
+      {
+        "word": "tang",
+        "meaning": "pliers",
+        "clues": [
+          "It is used to grip objects.",
+          "It has two handles and a jaw.",
+          "It can be used to bend or cut wire.",
+          "It is a versatile hand tool.",
+          "It is found in most toolboxes."
+        ]
+      }
+    ],
+    "cooking_utensils": [
+      {
+        "word": "panci",
+        "meaning": "pan",
+        "clues": [
+          "It is used to boil water.",
+          "It has a handle and a lid.",
+          "It is used on a stove.",
+          "It is often made of metal.",
+          "It is used for cooking soups and stews."
+        ]
+      },
+      {
+        "word": "wajan",
+        "meaning": "wok",
+        "clues": [
+          "It is used in Asian cooking.",
+          "It has a round bottom.",
+          "It is used for stir-frying.",
+          "It is often made of cast iron.",
+          "It is used on high heat."
+        ]
+      },
+      {
+        "word": "pisau",
+        "meaning": "knife",
+        "clues": [
+          "It is used to cut food.",
+          "It has a sharp blade.",
+          "It is a common kitchen tool.",
+          "It can be used to slice, dice, or chop.",
+          "It needs to be handled carefully."
+        ]
+      },
+      {
+        "word": "sendok",
+        "meaning": "spoon",
+        "clues": [
+          "It is used to eat soup.",
+          "It has a rounded bowl-like end.",
+          "It is often used with a fork.",
+          "It can be made of metal, plastic, or wood.",
+          "It is a common utensil on dining tables."
+        ]
+      },
+      {
+        "word": "garpu",
+        "meaning": "fork",
+        "clues": [
+          "It is used to pick up food.",
+          "It has multiple prongs.",
+          "It is often used with a spoon and knife.",
+          "It is a common dining utensil.",
+          "It is used to eat solid food."
+        ]
+      },
+      {
+        "word": "mangkuk",
+        "meaning": "bowl",
+        "clues": [
+          "It is used to hold soup or cereal.",
+          "It is round and deep.",
+          "It can be made of ceramic, glass, or plastic.",
+          "It is often used for serving food.",
+          "It is found in every kitchen."
+        ]
+      }
+    ],
+    "vehicles": [
+      {
+        "word": "mobil",
+        "meaning": "car",
+        "clues": [
+          "It is a four-wheeled vehicle.",
+          "It is driven on roads.",
+          "It has an engine.",
+          "It is used for personal transportation.",
+          "It requires fuel or electricity to run."
+        ]
+      },
+      {
+        "word": "sepeda motor",
+        "meaning": "motorcycle",
+        "clues": [
+          "It has two wheels.",
+          "It is faster than a bicycle.",
+          "It is powered by an engine.",
+          "It is often used in cities.",
+          "It requires balance to ride."
+        ]
+      },
+      {
+        "word": "pesawat",
+        "meaning": "airplane",
+        "clues": [
+          "It flies in the sky.",
+          "It has wings.",
+          "It is used for long-distance travel.",
+          "It can carry many passengers.",
+          "It requires a runway to take off and land."
+        ]
+      },
+      {
+        "word": "kapal",
+        "meaning": "ship",
+        "clues": [
+          "It sails on water.",
+          "It is used for transporting goods or people.",
+          "It is larger than a boat.",
+          "It can be powered by sails, engines, or both.",
+          "It is essential for international trade."
+        ]
+      },
+      {
+        "word": "kereta api",
+        "meaning": "train",
+        "clues": [
+          "It runs on tracks.",
+          "It can carry many passengers or cargo.",
+          "It is powered by electricity or diesel.",
+          "It is often used for long-distance travel.",
+          "It stops at stations."
+        ]
+      },
+      {
+        "word": "sepeda",
+        "meaning": "bicycle",
+        "clues": [
+          "It has two wheels.",
+          "It is powered by pedaling.",
+          "It is a common mode of transportation.",
+          "It requires balance to ride.",
+          "It is often used for exercise."
+        ]
+      }
+    ],
+    "fruits": [
+      {
+        "word": "apel",
+        "meaning": "apple",
+        "clues": [
+          "It is often red or green.",
+          "It is crunchy and sweet.",
+          "It is a popular fruit for snacking.",
+          "It is used to make cider.",
+          "It is said to keep the doctor away."
+        ]
+      },
+      {
+        "word": "jeruk",
+        "meaning": "orange",
+        "clues": [
+          "It is round and orange in color.",
+          "It is a citrus fruit.",
+          "It is known for its high vitamin C content.",
+          "It is often juiced.",
+          "It has a thick peel."
+        ]
+      },
+      {
+        "word": "pisang",
+        "meaning": "banana",
+        "clues": [
+          "It is yellow when ripe.",
+          "It is long and curved.",
+          "It is a good source of potassium.",
+          "It is commonly eaten as a snack.",
+          "It grows in bunches."
+        ]
+      },
+      {
+        "word": "anggur",
+        "meaning": "grape",
+        "clues": [
+          "It is small and round.",
+          "It can be red, green, or purple.",
+          "It is used to make wine.",
+          "It grows in clusters.",
+          "It can be eaten fresh or dried as raisins."
+        ]
+      },
+      {
+        "word": "mangga",
+        "meaning": "mango",
+        "clues": [
+          "It is sweet and juicy.",
+          "It has a large pit inside.",
+          "It is often yellow or orange when ripe.",
+          "It is a tropical fruit.",
+          "It is used in smoothies and desserts."
+        ]
+      },
+      {
+        "word": "semangka",
+        "meaning": "watermelon",
+        "clues": [
+          "It is large and round.",
+          "It has a green rind and red flesh.",
+          "It is full of water.",
+          "It is a refreshing summer fruit.",
+          "It has black seeds inside."
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "word": "wortel",
+        "meaning": "carrot",
+        "clues": [
+          "It is orange and crunchy.",
+          "It is often eaten raw or cooked.",
+          "It is good for your eyesight.",
+          "It grows underground.",
+          "It is used in soups and salads."
+        ]
+      },
+      {
+        "word": "kentang",
+        "meaning": "potato",
+        "clues": [
+          "It grows underground.",
+          "It is starchy and can be baked, fried, or mashed.",
+          "It is a staple food in many countries.",
+          "It has a brown skin and white flesh.",
+          "It is often served as fries."
+        ]
+      },
+      {
+        "word": "tomat",
+        "meaning": "tomato",
+        "clues": [
+          "It is red and juicy.",
+          "It is often used in salads and sauces.",
+          "It is technically a fruit but used as a vegetable.",
+          "It is rich in lycopene.",
+          "It grows on vines."
+        ]
+      },
+      {
+        "word": "brokoli",
+        "meaning": "broccoli",
+        "clues": [
+          "It is green and tree-like.",
+          "It is rich in vitamins and minerals.",
+          "It is often steamed or stir-fried.",
+          "It is a common vegetable in healthy diets.",
+          "It belongs to the cabbage family."
+        ]
+      },
+      {
+        "word": "bayam",
+        "meaning": "spinach",
+        "clues": [
+          "It is dark green and leafy.",
+          "It is rich in iron.",
+          "It is often used in salads or cooked as a side dish.",
+          "It is associated with the cartoon character Popeye.",
+          "It is a superfood."
+        ]
+      },
+      {
+        "word": "kembang kol",
+        "meaning": "cauliflower",
+        "clues": [
+          "It is white and looks like broccoli.",
+          "It is often used in soups and stir-fries.",
+          "It is a low-carb substitute for rice and potatoes.",
+          "It belongs to the cabbage family.",
+          "It is often roasted or mashed."
+        ]
+      }
+    ]
+  }
+}
+
