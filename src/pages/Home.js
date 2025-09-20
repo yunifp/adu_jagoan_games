@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { useNavigate } from "react-router-dom"; // ✅ Tambahkan ini
 import judulgame2 from "../components/img/judulgame.png";
 import backgroundMusic from "../components/music/home.ogg";
 import ButtonMute from "../components/ButtonMusic";
@@ -11,6 +12,7 @@ const Home = () => {
   const [showRotateMessage, setShowRotateMessage] = useState(false);
   const [isFullscreen, setIsFullscreen] = useState(false);
   const [isLoading, setIsLoading] = useState(true);
+  const navigate = useNavigate(); // ✅ untuk redirect
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -22,8 +24,6 @@ const Home = () => {
   const handleMuteToggle = () => {
     console.log("Mute button clicked");
   };
-
-
 
   const checkOrientation = () => {
     if (window.matchMedia("(orientation: portrait)").matches) {
@@ -55,8 +55,6 @@ const Home = () => {
     window.addEventListener("resize", checkOrientation);
     document.addEventListener("fullscreenchange", handleFullscreenChange);
 
-
-
     setIsFullscreen(!!document.fullscreenElement);
 
     return () => {
@@ -83,15 +81,12 @@ const Home = () => {
                 <img
                   src={judulgame2}
                   alt="Adu Jagoan Inyong"
-                  className="judul-game-animation z-10 w-3/4 max-w-xs sm:max-w-sm md:max-w-md lg:max-w-xl"
+                  className="judul-game-animation z-10 lg:w-[1200px] sm:max-w-sm md:max-w-md lg:max-w-2xl lg:mt-[-350px] md:mt-[-250px] sm:mt-[-150px]" // ✅ digeser ke atas
                 />
               </div>
               <div className="flex-none">
-                <div className="papan-container flex  sm:h-[580px] sm:w-[260px] md:h-[640px] md:w-[290px] lg:h-[800px] lg:w-[400px] flex-col items-center justify-between bg-contain bg-top bg-no-repeat lg:pt-36 md:px-10 md:pb-32 md:pt-20 ">
-                  <div className="flex w-full flex-col items-center lg:mt-16 lg:gap-3 lg:px-8 md:px-2 md:gap-4 md:mt-16 sm:gap-2 sm:px-12 sm:mt-36">
-                    <h2 className="lg:text-2xl md:text-xl sm:text-lg font-bold text-[#6B4226] drop-shadow-sm lg:mb-16">
-                      Player Name
-                    </h2>
+                <div className="papan-container flex sm:h-[580px] sm:w-[260px] md:h-[640px] md:w-[290px] lg:h-[800px] lg:w-[400px] flex-col items-center justify-between bg-contain bg-top bg-no-repeat lg:pt-36 md:px-10 md:pb-32 md:pt-20">
+                  <div className="flex w-full flex-col items-center lg:mt-44 lg:gap-3 lg:px-8 md:px-2 md:gap-4 md:mt-32 sm:gap-2 sm:px-12 sm:mt-44">
                     <input
                       type="text"
                       placeholder="Player 1"
@@ -103,7 +98,8 @@ const Home = () => {
                       className="w-full rounded-full border-4 border-[#7c512a] bg-[#f8e5c8] px-5 py-3 text-center lg:text-xl md:text-sm sm:text-sm text-lg font-semibold text-[#7C512A] shadow-inner transition duration-200 placeholder:text-[#a3794d] focus:border-[#c78855] focus:bg-[#fff9f0] focus:outline-none"
                     />
                     <button
-                      className=" sm:mt-1 sm:w-2/3 md:w-3/4 lg:w-4/5 
+                      onClick={() => navigate("/game")} // ✅ redirect ke /game
+                      className="sm:mt-1 sm:w-2/3 md:w-3/4 lg:w-4/5 
   cursor-[url('/src/components/img/tunjuk.png'),auto] 
   border-[4px] border-[#7c512a] 
   bg-gradient-to-b from-[#9ae647] to-[#63b821] 
@@ -117,7 +113,6 @@ const Home = () => {
                     >
                       Mulai
                     </button>
-
                   </div>
                   <div className="flex items-center justify-center lg:mb-1 lg:gap-5 md:gap-1 md:mb-4 sm:gap-0 sm:mb-32">
                     <ButtonInfo />
